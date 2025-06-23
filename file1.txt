@@ -6,3 +6,5 @@ new changes from the branch
 editing feature from my_branch
 
 adding one more feature
+
+new feature added in git
